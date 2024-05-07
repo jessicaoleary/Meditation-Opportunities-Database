@@ -1,9 +1,10 @@
 # Project Plan
 
 ## Project Overview
-- The project aims to create an online database of meditation opportunities in the Charlottesville area, with the goal of making local meditation resources more accessible to individuals interested in practicing meditation.
-- **Stakeholder:** Jessica O'Leary
-    - **Role:** Project manager, developer, and sole contributor.
+The project aims to create an online database of meditation opportunities in the Charlottesville area, with the goal of making local meditation resources more accessible to individuals interested in practicing meditation.
+
+**Stakeholder:** Jessica O'Leary
+- **Role:** Project manager, developer, and sole contributor.
 
 ## Project Goals and Objectives
 - **Goal:** Develop an online database of meditation opportunities.
