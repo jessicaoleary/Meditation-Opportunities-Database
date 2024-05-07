@@ -2,28 +2,30 @@
 
 The project plan outlines the development of an online database aimed at centralizing information on meditation groups, centers, and events in the Charlottesville area. The project's overarching goals include improving access to local meditation opportunities and fostering community engagement in meditation practices. Key objectives focus on research and data compilation, website development, content population, launch preparation, and post-launch evaluation. The project timeline spans nine weeks, with additional post-launch activities planned for two months following the official launch. Resource planning, risk management strategies, quality management standards, and monitoring/reporting procedures are also detailed in the project plan. This document aims to provide a comprehensive roadmap for project execution, ensuring the successful implementation and maintenance of the meditation opportunities database.
 
+## Project Plan
+
 1. **Research and Compile Data:**
-  - Research existing meditation groups, centers, and events in Charlottesville area.
-  - Gather information such as name of organization, location, contact details, types of meditation offered, schedule (if available), and any other relevant information.
+    - Research existing meditation groups, centers, and events in Charlottesville area.
+    - Gather information such as name of organization, location, contact details, types of meditation offered, schedule (if available), and any other relevant information.
 2. **Design and Develop the Database:**
-  - Choose platform or tool for creating online database.
-  - Decide on features and functionalities to include, such as search filters by location, type of meditation, schedule, etc.
-  - Design user interface to be intuitive and easy to navigate.
+    - Choose platform or tool for creating online database.
+    - Decide on features and functionalities to include, such as search filters by location, type of meditation, schedule, etc.
+    - Design user interface to be intuitive and easy to navigate.
 3. **Collect Additional Information:**
-  - Reach out to meditation groups and centers to gather more detailed information about their offerings.
-  - This could include descriptions of the meditation practices, teacher profiles, pricing (if applicable), etc.
+    - Reach out to meditation groups and centers to gather more detailed information about their offerings.
+    - This could include descriptions of the meditation practices, teacher profiles, pricing (if applicable), etc.
 4. **Organize and Update the Database:**
-  - Organize collected data into categories or tags to make it easier for users to find relevant meditation opportunities.
-  - Regularly update database to add new listings, remove outdated information, and make any necessary corrections.
-  - *Consider implementing a system for users to submit new listings or updates to existing ones.
+    - Organize collected data into categories or tags to make it easier for users to find relevant meditation opportunities.
+    - Regularly update database to add new listings, remove outdated information, and make any necessary corrections.
+    - *Consider implementing a system for users to submit new listings or updates to existing ones.
 5. **Promote and Maintain the Database:**
-  - Once the database has been launched, promote through various channels to attract users.
-  - This could include social media, local community forums, and outreach to relevant organizations and groups.
-  - Monitor user feedback and usage patterns to identify areas for improvement and continue to maintain and update the database over time.
+    - Once the database has been launched, promote through various channels to attract users.
+    - This could include social media, local community forums, and outreach to relevant organizations and groups.
+    - Monitor user feedback and usage patterns to identify areas for improvement and continue to maintain and update the database over time.
 6. **Document Process:**
-  - Keep detailed records of project's development, including research process, methodology, challenges faced, and lessons learned. 
+    - Keep detailed records of project's development, including research process, methodology, challenges faced, and lessons learned. 
 7. **Engage with the Community:**
-  - Actively engage with the meditation community in Charlottesville throughout the project.
+    - Actively engage with the meditation community in Charlottesville throughout the project.
 
 ## Project Timeline
 
