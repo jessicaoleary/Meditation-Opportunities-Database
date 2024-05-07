@@ -4,8 +4,6 @@ An open-source project dedicated to enhancing access to local meditation opportu
 ## Overview
 The Meditation Opportunities Database is an open-source project aimed at centralizing information on meditation groups, centers, and events in the Charlottesville area. It seeks to make local meditation opportunities more accessible to individuals in Charlottesville and beyond by providing a user-friendly online platform. This repository contains the source code and documentation for the database, which includes details such as location, type of meditation, schedule, and contact information.
 
-In a world increasingly reliant on digital resources, communal meditation experiences hold significant value, especially for newcomers to the practice. While meditation apps offer convenience, they often lack the depth and connection found in group settings. However, accessing local meditation opportunities can be challenging for many, particularly those navigating an unfamiliar landscape. With this in mind, the aim of the project is clear: to bridge this gap and empower individuals to explore and engage with meditation practices in their community with ease and confidence.
-
 ## Features
 - Comprehensive database of meditation groups, centers, and events in Charlottesville
 - User-friendly interface for searching, filtering, and browsing meditation opportunities
