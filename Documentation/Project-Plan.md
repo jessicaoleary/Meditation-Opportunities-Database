@@ -21,7 +21,7 @@
 
 ## Project Timeline
 
--**Week 1 (May 6 - May 12): Project Planning**
+**Week 1 (May 6 - May 12): Project Planning**
 - Define project goals, objectives, and scope.
 - Research and select a website platform/tool.
 - Set up project management tools and communication channels.
