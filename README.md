@@ -49,25 +49,6 @@ The scope of the project includes developing an online database dedicated to cat
 - The database will be populated with accurate and up-to-date listings, ensuring consistency and relevance for users.
 - Post-launch activities include ongoing maintenance, updates, and community engagement to ensure the sustainability and growth of the platform.
 
-### Research and Data Compilation
-Conduct research to gather comprehensive information on meditation groups, centers, and events in Charlottesville. Compile this data, including details such as location, type of meditation, schedule, and contact information, to populate the database.
-
-### Website Development
-Design and develop a user-friendly website interface for accessing the online database. This includes creating features for searching, filtering, and browsing meditation opportunities, as well as integrating a calendar view option.
-
-### Content Population
-Populate the database with accurate and up-to-date listings of meditation opportunities. Ensure that all information is consistent, complete, and relevant to users' needs.
-
-### Testing and Quality Assurance
-Conduct thorough testing of the website's functionality, usability, and performance across different devices and browsers. Address any issues or bugs identified during testing to ensure a smooth user experience.
-
-### Launch and Promotion
-Prepare promotional materials and marketing strategies to raise awareness of the online database within the Charlottesville community. Launch the database on the scheduled date (July 4, 2024) and promote its availability to attract users.
-
-### Post-Launch Evaluation and Follow-Up
-Conduct post-launch evaluation to assess the performance and usability of the online database. Address any immediate issues or bugs identified during the evaluation period. Continue to engage with the meditation community, perform routine technical maintenance, and update the database with new information as needed.
-
-
 ## Project Timeline
 
 **Week 1 (May 6 - May 12): Project Planning**
