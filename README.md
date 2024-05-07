@@ -2,7 +2,9 @@
 An open-source project dedicated to enhancing access to local meditation opportunities in Charlottesville. Contains source code and documentation for an online database consolidating information on meditation groups and events in the area.
 
 ## Overview
-The Meditation Opportunities Database is an open-source project aimed at making local meditation opportunities more accessible to individuals in the Charlottesville area and beyond. This repository contains the source code and documentation for an online database that centralizes information on meditation groups, centers, and events in Charlottesville, including details such as location, type of meditation, schedule, and contact information.
+The Meditation Opportunities Database is an open-source project aimed at centralizing information on meditation groups, centers, and events in the Charlottesville area. It seeks to make local meditation opportunities more accessible to individuals in Charlottesville and beyond by providing a user-friendly online platform. This repository contains the source code and documentation for the database, which includes details such as location, type of meditation, schedule, and contact information.
+
+In a world increasingly reliant on digital resources, communal meditation experiences hold significant value, especially for newcomers to the practice. While meditation apps offer convenience, they often lack the depth and connection found in group settings. However, accessing local meditation opportunities can be challenging for many, particularly those navigating an unfamiliar landscape. With this in mind, the aim of the project is clear: to bridge this gap and empower individuals to explore and engage with meditation practices in their community with ease and confidence.
 
 ## Features
 - Comprehensive database of meditation groups, centers, and events in Charlottesville
@@ -51,76 +53,21 @@ The scope of the project includes developing an online database dedicated to cat
 
 ## Project Timeline
 
-**Week 1 (May 6 - May 12): Project Planning**
-- Define project goals, objectives, and scope.
-- Research and select a website platform/tool.
-- Set up project management tools and communication channels.
-- Create a project timeline and milestone schedule.
-- Learn how to use GIT to document database project.
-
-**Week 2 (May 13 - May 19): Platform Setup**
-- Set up the chosen website platform/tool.
-- Install necessary plugins/extensions for custom post types, custom fields, and search/filter functionality.
-- Configure basic website settings and design elements.
-- Build up database spreadsheet.
-
-**Week 3 (May 20 - May 26): Database Structure**
-- Define the structure of the database, including custom post types and custom fields.
-- Set up data entry forms for adding meditation opportunities.
-- Begin populating the database with initial entries.
-
-**Week 4 (May 27 - June 2): Website Design**
-- Design and develop the list view template for displaying meditation opportunities.
-- Customize the layout and styling to match the project's aesthetic.
-- Test the responsiveness of the website design on different devices.
-
-**Week 5 (June 3 - June 9): Filtering Functionality**
-- Implement filtering options for the list view, including location, type of meditation, schedule, etc.
-- Test the filtering functionality to ensure accurate results.
-- Iterate on design and functionality based on user feedback.
-- Edit documentation for weeks 1-4.
-
-**Week 6 (June 10 - June 16): Calendar Integration**
-- Select and install an events calendar plugin for the calendar view.
-- Integrate the events calendar with the custom post type for meditation opportunities.
-- Customize the calendar display settings and navigation controls.
-
-**Week 7 (June 17 - June 23): Testing and Optimization**
-- Conduct thorough testing of the website's functionality and user experience.
-- Identify and fix any bugs or issues.
-- Optimize website performance for speed and accessibility.
-- Contact relevant local groups for dissemination (e.g. Contemplative Sciences Center).
-
-**Week 8 (June 24 - June 30): Content Population**
-- Continue populating the database with additional meditation opportunities.
-- Gather detailed information for each listing, including descriptions, contact details, etc.
-- Ensure consistency and accuracy of information across all entries.
-- Edit documentation for weeks 5-8.
-
-**Week 9 (July 1 - July 7): Launch Preparation**
-- Finalize website content and design.
-- Conduct user acceptance testing (UAT) to gather feedback from stakeholders.
-- Prepare promotional materials and marketing strategies for the database launch.
-- Official launch: July 4, 2024.
-
-**Week 10-13 (July 8 - August 4): Post-Launch Documentation, Evaluation, and Initial Follow-Up**
-- Finalize documentation.
-- Monitor Launch Performance.
-- Address Immediate Issues.
-- User Feedback Collection.
-- Community Engagement.
-- Technical Maintenance.
-- Content Updates.
-
-**Week 14-17 (August 5 - September 1): Optimization and Growth**
-- Data Analysis.
-- Optimization Efforts.
-- Promotion and Outreach.
-- Feature Enhancements.
-- Long-Term Planning.
+- **May 6 - July 4:** Project Duration
+- **Week 1:** Project Planning
+- **Week 2:** Platform Setup
+- **Week 3:** Database Structure
+- **Week 4:** Website Design
+- **Week 5:** Filtering Functionality
+- **Week 6:** Calendar Integration
+- **Week 7:** Testing and Optimization
+- **Week 8:** Content Population
+- **Week 9:** Official Launch, July 4
+- **Week 10-13:** Post-Launch Documentation, Evaluation, and Initial Follow-Up
+- **Week 14-17:** Optimization and Growth
 
 ## License
 This project is licensed under the GNU General Public License (GPL). See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or inquiries about the Meditation Opportunities Database, please contact [your-email-address].
+For questions or inquiries about the Meditation Opportunities Database, please contact [jessicaroleary@gmail.com].
