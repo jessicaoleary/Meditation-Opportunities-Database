@@ -92,14 +92,14 @@ The project aims to create an online database of meditation opportunities in the
 
 ## Resource Planning
 - Allocation of human, financial, and other resources required for project execution.
-  - **Resource:** [Your Name]
+  - **Resource:** Jessica O'Leary
     - **Role:** Project manager, developer, designer, tester, and maintainer.
-    - **Budget:** [Optional - if applicable]
+    - **Budget:** TBD
 
 ## Risk Management
 - Identification and assessment of project risks, along with mitigation strategies.
   - **Risk:** Limited technical expertise.
-    - **Mitigation:** Seek online resources, tutorials, or guidance as needed. Consider using user-friendly website builders or templates.
+    - **Mitigation:** Seek online resources, tutorials, or guidance as needed. Use user-friendly website builders or templates.
   - **Contingency:** Delayed timeline due to unforeseen technical issues.
     - **Plan:** Allocate additional time for troubleshooting and problem-solving.
   
